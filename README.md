@@ -31,6 +31,8 @@ http://localhost:8080/pokemon?type1=Grass
 
 ## H2 DB
 http://localhost:8080/h2-console
+<br>
 user name: test
+<br>
 pass: test
 
